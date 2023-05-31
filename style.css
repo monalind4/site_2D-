@@ -4,7 +4,7 @@
     }
     
     .cabeçalho{
-    background-color: rgb(248, 92, 45);
+    background-color: rgb(156, 227, 245);
     color: rgb(247, 187, 234);
     display: flex;
     justify-content: space-around;
@@ -38,5 +38,5 @@
     }
     
     .imagem-pimenta{
-    width: 5%;
+    width: 15%;
     }
