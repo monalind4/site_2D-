@@ -4,8 +4,8 @@
     }
     
     .cabeçalho{
-    background-color: rgb(153, 231, 250);
-    color: rgb(10, 0, 8);
+    background-color: rgb(5, 77, 136);
+    color: rgb(32, 0, 26);
     display: flex;
     justify-content: space-around;
     align-items: center;
