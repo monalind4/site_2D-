@@ -26,14 +26,14 @@
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(90, 171, 247), #82f3ea);
+    background-image: linear-gradient(rgb(199, 224, 248), #bfbbf3);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 23px 0;
     }
     
-    .titulo_apresentaçao_trabalho{
+    .titulo_apresentaçao_trabalho{jjjh
     font-size: 35px;
     }
     
