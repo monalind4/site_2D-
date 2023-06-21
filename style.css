@@ -34,9 +34,13 @@
     }
     
     .titulo_apresentaçao_trabalho{
-    font-size: 60px;
+    font-size: 40px;
+    }
+
+    .subtitulo{
+        font-size: 30px;
     }
     
     .imagem-pimenta{
-    width: 80%
+    width: 60%
     }
