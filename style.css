@@ -4,7 +4,7 @@
     }
     
     .cabeçalho{
-    background-color: rgb(227, 242, 255);
+    background-color: rgb(170, 213, 250);
     color: rgb(7, 0, 6);
     display: flex;
     justify-content: space-around;
@@ -26,7 +26,7 @@
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(183, 216, 247), #8d86e6);
+    background-image: linear-gradient(rgb(151, 200, 247), #7a73e6);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -38,7 +38,7 @@
     }
 
     .subtitulo{
-        font-size: 30px;
+        font-size: 35px;
     }
     
     .imagem-pimenta{
